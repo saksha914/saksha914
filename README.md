@@ -7,23 +7,6 @@ I'm a passionate computer science student driven by data-driven insights and sof
 - **Web Development:** MERN Stack (MongoDB, Express, React, Node.js), Next.js, TypeScript, JavaScript, Tailwind CSS, React Native
 - **Data Science & Machine Learning:** Natural Language Processing (NLP), Data Analytics using Python, TensorFlow, Scikit-learn
 - **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools/IDE:** VS Code, PyCharm, Postman
-
-💼 Experience
-
-Full-stack Developer Intern at Nexgen Elit (June 2024 - Present, Remote)
-- Built and maintained dynamic web applications using the MERN stack, reducing load times by 20%.
-- Implemented Next.js for front-end development, ensuring user-friendly interfaces.
-- Managed PostgreSQL databases to optimize performance and data storage.
-- Collaborated with cross-functional teams to deliver projects on time and meet client requirements.
-
-🎓 Education
-
-Bachelor of Technology - BTech, Computer Science**  
-GLA University, 2026
-
-High School Diploma
-City Montessori School, 2021
 
 🌟 Interests
 
